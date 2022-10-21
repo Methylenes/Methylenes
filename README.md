@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Methylenes
+- 👋 Hi, I’m @Methy
 - 👀 I’m interested in code, music, video game, food, PINOU & MIMI 
 - 🌱 I’m currently learning Python, Russian & Chinese, HR
 
